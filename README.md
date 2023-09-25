@@ -2,14 +2,13 @@
 
 > IOS/Android Native App for WordPress Website/Blog built using Flutter. **No additional Plugins required for WordPress**.
 
-> Built for DevFest Lahore 2019 Workshop
 
 ![](ScreenShot.jpg)
 
 ## Demo
 
-[![Download 64Bit](https://img.shields.io/badge/Download%20APK-64%20bit-brightgreen)](https://github.com/atiqsamtia/WordPress-App-with-Flutter/releases/latest/download/app-arm64-v8a-release.apk)
-[![Download 64Bit](https://img.shields.io/badge/Download%20APK-32%20bit-brightgreen)](https://github.com/atiqsamtia/WordPress-App-with-Flutter/releases/latest/download/app-armeabi-v7a-release.apk)
+[![Download 64Bit](https://img.shields.io/badge/Download%20APK-64%20bit-brightgreen)](https://github.com/Kristof0310/WordPress-App-with-Flutter/releases/latest/download/app-arm64-v8a-release.apk)
+[![Download 64Bit](https://img.shields.io/badge/Download%20APK-32%20bit-brightgreen)](https://github.com/Kristof0310/WordPress-App-with-Flutter/releases/latest/download/app-armeabi-v7a-release.apk)
 
 ![](Demo.gif)
 
@@ -21,7 +20,7 @@ These are he requirements to run this App
 ## Getting Started
 clone this repo
 ```
-git clone https://github.com/atiqsamtia/WordPress-App-with-Flutter.git wordpress_flutter
+git clone https://github.com/Kristof0310/WordPress-App-with-Flutter.git wordpress_flutter
 ```
 Change <code>TITLE</code> and <code>URL</code> according to your website in <code>lib/config.dart</code> file.
 
