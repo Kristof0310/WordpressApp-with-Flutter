@@ -46,7 +46,7 @@ It is that simple.
 - [x] Fade Image with Placeholder
 - [x] Cached Network Image
 - [x] RTL support for language like Arabic, Urdu, Hebrew etc
-- [ ] Connectivity status, if offline pop a message
+- [x] Connectivity status, if offline pop a message
 - [ ] Pull to refresh
 - [ ] Setting page
 - [ ] Related Posts on Post Detail Page
